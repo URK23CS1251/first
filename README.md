@@ -1,3 +1,2 @@
-venkatesh is batman
-today is monday
-
+Yesterday it was so moody 
+and today it raining 
