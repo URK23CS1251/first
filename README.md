@@ -1,2 +1,2 @@
-Yesterday it was so moody 
-and today it raining 
+yesterday we bought umbrella .
+Today is raining ,so umbrella saved us from rain.
