@@ -1,0 +1,6 @@
+The way in which the online checker reads your documents varies by file format.
+
+With plain text (TXT) files, all of the text is read exactly as you see it.
+With MS Word 97 – 2003 format (DOC), footnotes are included but text in graphics is excluded. Tables are read correctly. However, tracked changes may result in incorrect results because any tracked changes that have been deleted or comments that are included will be read and included in results (though we are working to resolve this).
+With MS Word 2007 and above format (DOCX), footnotes are excluded, text in graphics is usually included (though it depends on the format of the graphic) and tables are read correctly. If there are tracked changes in the document, the latest or final version is the one tested.
+With PDF files, footnotes and text in graphics are read by the online checker and included in results. However, files that include tables are not always read correctly and can produce some spurious result
